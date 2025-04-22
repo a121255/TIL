@@ -71,3 +71,7 @@ Spring Boot Actuator는 애플리케이션 모니터링과 관리를 위한 도�
 
 ## ❗ 깨달은 점 / 메모
 Prometheus + Grafana로 모니터링 환경울 구축해봐야겠다.
+
+## 🔗 참고 자료
+https://incheol-jung.gitbook.io/docs/study/srping-in-action-5th/chap-16.
+https://junuuu.tistory.com/968
